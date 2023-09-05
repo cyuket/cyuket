@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyuket
 - 👀 I’m interested in building beautiful applications with flutter
-- 🌱 I’m currently learning learning how to spend more time outside my laptop
+- 🌱 I’m currently learning how to spend more time outside my laptop
 - 📫 How to reach me: just send me an email cyriluket12@gmail.com
 
 <!---
